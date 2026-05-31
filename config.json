@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensender",
+        "uuid": 14916585,
+        "checksum": "rdcb9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
